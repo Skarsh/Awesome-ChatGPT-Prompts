@@ -1,6 +1,6 @@
 # Awesome-ChatGPT-Prompts
 
-This is a curated list of the most interesting ChatGPT prompts I have found and come up with myself, that can be consistently reproduced.
+This is a curated list of the most interesting ChatGPT prompts I have found or come up with myself, that can be consistently reproduced.
 
 ## Interactive Text Adventure
 ![bilde](https://user-images.githubusercontent.com/12898765/205519989-ca204105-877c-46d2-a4c4-a76564ff8032.png)
